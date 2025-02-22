@@ -3,7 +3,7 @@
 # Exploratory Data Analysis (EDA) Mini Projects
 
 ## Overview
-This repository contains a collection of three mini projects focusing on Exploratory Data Analysis (EDA) using Python. Each project highlights a different aspect of data analysis, covering statistical calculations, demographic data insights, and medical data visualization.
+This repository contains a collection of three mini projects focusing on Exploratory Data Analysis (EDA) using Python. Each project highlights a different aspect of data analysis, covering statistical calculations, demographic data insights, and medical data visualization. I created these projects by following the Data Analysis course by freecodecamp
 
 ## Projects
 
@@ -35,7 +35,7 @@ This repository contains a collection of three mini projects focusing on Explora
 ## Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/EDA-mini-projects.git
+   [git clone https://github.com/your-username/EDA-mini-projects.git](https://github.com/Aabhas2/EDA-Mini-Projects.git)
    cd EDA-mini-projects
    ```
 
