@@ -35,7 +35,7 @@ This repository contains a collection of three mini projects focusing on Explora
 ## Installation & Setup
 1. **Clone the repository:**
    ```bash
-   [git clone https://github.com/your-username/EDA-mini-projects.git](https://github.com/Aabhas2/EDA-Mini-Projects.git)
+   git clone https://github.com/your-username/EDA-mini-projects.git](https://github.com/Aabhas2/EDA-Mini-Projects.git
    cd EDA-mini-projects
    ```
 
